@@ -59,7 +59,7 @@ scikit-image==0.14.2
 #numexpr==2.6.9
 
 # Optional: these libraries can be useful in the classification exercise.
-nltk==3.4.5
+nltk==3.6.6
 urlextract==0.9
 
 # Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
